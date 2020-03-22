@@ -6,6 +6,18 @@
 Welcome to blog's documentation!
 ================================
 
+欢迎大家来到我的blog
+
+blog主要分三部分
+-----------------
+   1. 本文档编写语法
+   2. Openshift学习笔记 
+   3. Angular学习笔记
+   4. 新概念2的笔记
+
+
+
+
 .. toctree::
    :maxdepth: 10
    :caption: 语法:
@@ -29,9 +41,19 @@ Welcome to blog's documentation!
    
 
 
-Indices and tables
-==================
+.. Indices and tables
+.. ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+.. * :ref:`genindex`
+.. * :ref:`modindex`
+.. * :ref:`search`
+
+
+
+相关链接：
+-------------
+
+
+1. CSDN: https://blog.csdn.net/u013716535/article/details/104902308
+2. B站 : https://www.bilibili.com/video/av97736494?from=search&seid=5011165924106827538
+3. 邮箱: gengtianqitt@163.com 
