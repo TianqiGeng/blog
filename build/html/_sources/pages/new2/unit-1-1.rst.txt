@@ -583,4 +583,7 @@ Lesson12：Goodbye and good luck 再见,一路顺风
   * go through a door
   * across from 在…对面
 
-
+9. set out 出发
+10. plent of food/good ideas 可数
+11. away from 相距
+12. take part in 参与 enter for

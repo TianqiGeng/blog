@@ -101,9 +101,78 @@ Lesson38：Everything except the weather唯独没有考虑到天气
 
 Lesson39：Am I all right?我是否痊愈？
 =====================================
-1. 
+1. key point: 直接引语变间接引语(L15)
+2. 方法
+
+  1. 引号打开,变宾语从句
+  2. 转换角度（人称，时态，代词）
+
+3. Eg
+
+  * He says，“I am a fool.”
+  * He says that He is a fool.
+
+4. **宾语从句(重点)**
+
+  * 陈述句+that
+  * 特殊疑问句，调整语序
+  * 一般疑问句，使用if/whether
+
+5. Eg
+	* He asked his doctor to tell him whether my operation had been successful(注意时态)
+
+6. Mr.Gibert said (that) he was inquiring a patient
+
+
 Lesson40：Food and talk进餐与交谈
 ==================================
+1. sit next to(紧挨着) sb
+	He put his suitcase next to the sofa
+	
+2. **a large,unsmiling lady in a tight black dress.**
+
+  2.1 a large = a fat lady 
+  2.2 in 穿戴（衣物）
+  
+    the woman in red/high-heeled shoes
+	
+3. she did not even look up(抬头看我)
+	I have to look up the word in the dictionsry
+	
+4. when I took my seat beside her(做下，更正式一些)
+    He went into the theater and took his seat(take one's seat)
+	
+5. Her eyes were fixed on her plate(fix one's eyes on 盯着)
+6. be busy in doing // be busy with sth
+7. **try to make conversation**
+	At a party,I have to think of things to say. So It's very hard to make conversation
+	
+8. A new play is coming to (进行时，将要，come/leave)
+9. will you be seeing (will be doing 说法更委婉)
+	How long will you be staying
+	
+10. Will you be spenging your holidays abroad(出国度假)
+11. **虚拟语气**
+	If you ate more and talked less, we would both enjoy
+	
+	.. csv-table:: Frozen Delights!
+	   :header: 虚拟的时间,if 从句,主句
+	   :widths: 15, 15, 30
+
+	   现在,were/did,would(should/could/might)doctor
+	
+12. Eg
+
+	* If you gave me more time,I would do it better
+	* If I were you,I should seize the chance
+	* If Ted were the boss,he would make some changes
+	
+	
+	
+
+
+
+
 Lesson41：Do you call that a hat?你把那个叫帽子吗？
 ====================================================
 Lesson42：Not very musical并非很懂音乐
