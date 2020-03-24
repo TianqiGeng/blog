@@ -47,66 +47,66 @@ Lesson13：The Greenwood Boys 绿林少年
 
 Lesson14：Do you speak English? 你会讲英语吗?
 =================================================
-Lesson 14 Do you speak English?
 1. amusing=funny adj
 
     a amusing joke
 
 2. experience n.unsusual
 
-    经验 He is a man of great experience
+     He is a man of great experience 经验
 
 3. wave goodlbye to sb
 4. lift 顺风车
 
-    Alan gave me a lift to subing station .
+    A8 gave me a lift to subway station .
 
 5. reply
 
-  1. vi I will veply to this letter later.
+  1. vi I will reply to this letter later.
   2. vt He did not reply a word.
   3. n He made no reply
 
-6. native lbody language
+6. native / body language
 7. **过去完成时**
 
     1. 形式 had done 过去的过去
-    2. eg : After I had met an old friend at cafe . I went to school .when I got to the office , the meeting had already begun .
+    2. eg : After I had met an old friend at cafe . I went to school.
+    3. eg : when I got to the office, the meeting had already begun.
 
 8. **重点**
 
-  1. in 表示内部 Beijing is in the north of Chin
+  1. in 表示内部 Beijing is in the north of China.
   2. on 表示接壤 The Pacific is on the east of China.
-  3. to 表示不接接 Japan is to the east of a china on alv 向前，继续
-  4. We will go on with the text
+  3. to 表示不接壤 Japan is to the east of a china 
+  4. on adv 向前，继续 We will go on with the text
 
-9. On the way to the airport loffice 在途中/路上
+9. On the way to the airport / office 在途中/路上
 10. **as soon as-...就...**
 
   1. As soon as Paul got to the office, he told Fred the result
-  2. get into the car I get out of the car
+  2. get into the car / get out of the car
   3. get on the bus/ get off the bus
 
-11. say good morinel ifternoon to sb
+11. say good moring / afternoon to sb
 
   1. in prep 表示用某种语言作为交际手段.
 
     * write in Chinese
-    * eply the question in English
+    * reply the question in English
   
-  2.  表示讲某种语言时可以不加介词
+  2. 表示讲某种语言时可以不加介词
   
     * speak Spanish
 
-12. Apart from a.few words.
+12. Apart from 除了
     Apart from the poems, he has written a novel.
-13. Neither of us spoke...两者都不
+13. **Neither of us spoke...两者都不**
 
-  * Neither answer is correct
-  * Neither of the answers is comect
-  * Neither of you or Jack is the right person for the job
+  * Neither answer **is** correct
+  * Neither of the answers **is** correct
+  * Neither of you or Jack **is** the right person for the job
 
-14. reach---get to; anive atlin.
+14. reach---get to; arrive at/in.
 15. learn→learned→learnt.知晓
 
   * As everyone knows, Jim is a nice person
@@ -115,7 +115,7 @@ Lesson 14 Do you speak English?
 16. **交际英语**
 
   * Nice to meet you.
-  * May ! know your name ?
+  * May I know your name ?
   * is it the first visit to china?
   * A lovely day , isn't it ?
   * Are you visiting for business or pleasure?
@@ -129,29 +129,28 @@ Lesson15：Good news 佳音
 1. secretary secret
 2. nervous adj dangous
 
-  * feel newous / be nervous 紧张状态
+  * feel nervous / be nervous 紧张状态
   * nerve n神经
 
 3. can / could / be able to + afford + sth / to do sth
 4. inter
 
-    internet / interview/international/interaction
+    internet / interview / international / interaction
 
 5. 直接引语变间接引语（宾语从句）句子做宾语.
 
   * L7 陈述→宾语
   * I believe that you can make it.
-  * 直接-> 间接 1. 打开，2. 调整角度
+  * 直接-> 间接 1. 打开，2. 调整是时态语态
   * He says he is a fool
-  * He said he was a fool
+  * He said (that) he was a fool
 
-6. such large salar 名词名词词组 太…样
-7. 宾语从句（L7)
+6. 宾语从句（L7)
 
   * I believe that I can fly
-  * I hope that you will b: I get better soon
-  * The boss always tells us that we must finish the work on time Everyone knows that 
-  * The earth travels lrewolves around the sun
+  * I hope that you will be / get better soon
+  * The boss always tells us that we must finish the work on time  
+  * Everyone knows that the earth travels around the sun
 
 
 Lesson16：A polite request 彬彬有礼的要求

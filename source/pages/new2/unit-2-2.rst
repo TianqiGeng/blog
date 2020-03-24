@@ -131,13 +131,13 @@ Lesson40：Food and talk进餐与交谈
 	
 2. **a large,unsmiling lady in a tight black dress.**
 
-  2.1 a large = a fat lady 
-  2.2 in 穿戴（衣物）
+  1. a large = a fat lady 
+  2. in 穿戴（衣物）
   
     the woman in red/high-heeled shoes
 	
 3. she did not even look up(抬头看我)
-	I have to look up the word in the dictionsry
+	I have to look up the word in the dictionary
 	
 4. when I took my seat beside her(做下，更正式一些)
     He went into the theater and took his seat(take one's seat)
@@ -159,7 +159,7 @@ Lesson40：Food and talk进餐与交谈
 	   :header: 虚拟的时间,if 从句,主句
 	   :widths: 15, 15, 30
 
-	   现在,were/did,would(should/could/might)doctor
+	   现在,were/did,would(should/could/might)
 	
 12. Eg
 

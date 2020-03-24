@@ -335,13 +335,13 @@ Lesson 7-12
 Lesson7：Too late 为时太晚
 ===========================
 1. detecive detect 探测
-2. valuable precious
+2. valuable precious (金钱的贵和精神的贵)
 3. the main streets / the side streets
 4. key points:
 
   1. 过去进行时 
-  2. 过去完成时将来时 
-  3. whenlwhile 文章第一句时态很重要，确定了事情发生时间
+  2. 过去完成时 / 将来时 
+  3. when / while 文章第一句时态很重要，确定了事情发生时间
 
 5. **过去进行时**
 
