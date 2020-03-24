@@ -74,8 +74,8 @@ Lesson38：Everything except the weather唯独没有考虑到天气
   * Hardly had I taken my seat in...
 
 10. as if las though
+    
     1. look seem
-
         It seem as if it's going to rain
     
     2. 引导方式状
@@ -166,20 +166,104 @@ Lesson40：Food and talk进餐与交谈
 	* If you gave me more time,I would do it better
 	* If I were you,I should seize the chance
 	* If Ted were the boss,he would make some changes
-	
-	
-	
-
-
-
 
 Lesson41：Do you call that a hat?你把那个叫帽子吗？
 ====================================================
+1. **key point**
+
+  .. csv-table:: Frozen Delights!
+    :header: "实义动词","EG", "情态动词","Eg"
+    :widths: 15,20,15,20
+
+    need sth,He needs some time,need do(用于否定/疑问)
+    need to do/need sb. to do,He needs friends to help him,need have done(过去的虚拟)
+    need doing (需要被做某事),His bag needs mending
+    否定形式
+    don't/didn't/won't need, , needn't
+
+2. "you needn't be so rude...，" my wife answered as she looked as herself in the mirror
+3. I sat down on one of those modern chairs with holes in it
+
+  * a piece of paper with her name and address on it(有)
+  * a wallet with 200 dollars in it(with something)
+
+4. "We mustn't buy things we don't need,"I remarked suddenly.
+    mustn't 禁止，不允许
+
+5. I regretted say it almost at once
+
+  1. regret / regretted / regretted
+  2. regret sth
+  3. regret doing sth
+
+6. need
+
+  .. csv-table:: **need**
+    :header: "Eg","detail"
+    :widths: 20,20
+    :align: left
+    
+    You needn't have said that my wife answered
+    need have done,"本来需要做，但事实没做"
+    needn’t have done（虚拟）,"本来不需要做，但事实上做了"
+    I needn't remind you of that…tie you bought yesterday
+    needn't do(真实) ,"不需要做，就真的不做"
+
+7. A man can never have too many ties.
+    A woman can't have too many hats
+
 Lesson42：Not very musical并非很懂音乐
 =======================================
+1. As we had had a long walk...
+    have a+动作名词
+
+  * have a walk/rest/look/smell
+  * 类似s动作名词：dance，fight，ride，sleep，swim，wash
+
+2. ... we stopped at a square 
+    stop at 在...停留
+    
+    The train will stop at a small town.
+
+3. after a time / while 过了一会
+    After a time, Sally felt tired and stopped her work
+
+4. .... at the other side of the squareat   
+    the other side of 在 的另一边面
+
+5. ... so we went to have a look at him.
+    have a look at看一看…
+    
+    Let me have a look at that plane model.
+
+6. ... he picked up a long pipe
+  
+  * pick upJack picked up a coin from the floor. (捡起)
+  * Sam picked up a little Italian when he was travelling inItaly. (学会)
+  * John picked up a friend at the airport. (接人)
+
+7. ... which was covered with (coinscover with用 覆盖)
+    cover the box with a piece of paper 
+
+8. .... we had our first glimpse of the snake.
+  
+  * have/catch/get a glimpse of瞥见,看见
+  * I had a glimpse of a sports car just now.
+
+9. ... tell the difference between Indian music and jazz!
+  
+  * tell v.辨别,分辨(常与can, could, be able to连用)
+  * I can't tell her from her twin sister.
+  * tell the difference between A and B
+  * Vicky can't tell the difference between bee and wasp.
+  * There is great difference between Chinese and English 
+  * It makes no difference whether he helps us or not.
+
+
+
 
 Lesson 43-48
-************
+**************
 
 Lesson43：Over the South Pole飞越南极
 =======================================
