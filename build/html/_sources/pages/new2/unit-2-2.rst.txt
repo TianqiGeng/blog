@@ -267,8 +267,105 @@ Lesson 43-48
 
 Lesson43：Over the South Pole飞越南极
 =======================================
+1. **同位语(L14,L17)**
+  
+  * In 1929, three years after his flight over the North Pole,the American explorer, R.E, Byrd, successfully flew overthe South Pole for the first time     
+  * fly over
+  * for the first time 
+
+2. Though, at first, Byrd and his men were able to take a great many photographs of the mountains .., they soon ran into serious trouble.
+
+  * at first
+  * be able to do sth
+  * a great manytake photographs of..
+  * run into trouble
+  * lie lay lain
+
+3. **can pk be able to**
+
+  * 相同点：都表示能力，"能够"（(can / could; be able to时态更灵活)）
+  * 不同点:
+
+    1. 表示过去已经成功做到的,用was/were able to,不用could
+    2. can可以表示猜测,允许
+  
+4. At one point, it seemed certain that their plane would crash.
+    that their plane would crash seenmed certain 主语从句
+
+5. **主语从句：**
+
+  1. 含义 句子做主语
+  2. 位置 开头或者尾部
+  3. 写法 同宾语从句(L26 L15 L39),但是that不可以省略,而且只能用whether
+  4. EG
+  
+    1. It is pity that you can go with us
+    2. It is uncertain whether they will arrive here on time
+ 
+6. Byrd at oncę ordered his men to throw out... food sacks.
+  
+  * order v. keep the order
+  * order n. May I take your order, please?
+
+
+7. The plane was then able to rise and it cleared the mountains by 400 feet.(120m)
+
+8. which was 300 miles away,for there were no more mountains in sight.(for表原因只能放后一半)
+
+9. The aircraft was able to fly over the endless white plains without difficulty.
+
 Lesson44：Through the forest穿过森林
 =====================================
+1. take the risk of doing 冒险
+2. ... when she ran through a forest after two men.
+
+  * Tom is always running after Jerry. (追赶)
+  * We hear that Nick is running after Angela. (追求)
+
+3. They had rushed up to her...
+
+  * up to sb.冲到某人面前
+  * up to-直到.... (表示时间、地点等)
+  * up to now到目前为止
+  * Ryan walked up to the waiter.at the edge of ..在的边上
+  * Mr. Johnson's farm is at the edge of the village.
+  
+4. ... and tried to steal her handbag.
+
+  * steal sth.倫了某物
+  * The lady stole an expensive bag from the shop.
+  * rob sb of sth抢劫了某人某物
+  * That young man robbed Bob of his wallet.
+  
+5. ... with the bag in their possession, ...
+
+  * one's possession为某人拥有
+  * The castle is in his possession.
+  * in the possession of sb为某人拥有
+  * The castle was in the possession of a rich family in the past.
+
+6. Mrs. Sterling got so angry that she 
+
+  * ...so + adj. / adv. + that .如此.至于...
+  * 比较:The men got such a fright that they... (Line 9)
+  * such +n. + that.如此 以至于.....
+  * Ted is so kind that everyone likes him.
+  * Ted is such a kind man that everyone likes him.
+  
+7. out of breath = short of breath 
+8. when she catch up with them 追赶
+9. ... and were going through the contents of the bag..(仔细检查)
+10. ...so she ran straight at them (straight,笔直地,直接地)
+  
+  * at 对着，朝...方向
+  * Mary shouted at her boyfriend
+  
+11. "The strap needs mending,"
+
+  * need doing = need to be done 
+  * The strap needs to be mended.
+  * The vase needs cleaning.
+
 Lesson45：A clear conscience问心无愧
 =====================================
 Lesson46：Expensive and uncomfortable既昂贵又受罪
