@@ -119,7 +119,7 @@ Lesson39：Am I all right?我是否痊愈？
   * 一般疑问句，使用if/whether
 
 5. Eg
-	* He asked his doctor to tell him whether my operation had been successful(注意时态)
+	* He asked his doctor to tell him whether his operation had been successful(注意时态)
 
 6. Mr.Gibert said (that) he was inquiring a patient
 
@@ -368,9 +368,130 @@ Lesson44：Through the forest穿过森林
 
 Lesson45：A clear conscience问心无愧
 =====================================
+1. 被动语态(L21)
+
+  * 被动语态与时态想结合
+  * be +v.过去分词 (be done)
+  * Classrooms are cleaned every day.
+  * Classrooms were cleaned yesterday.
+  * Classrooms will be cleaned tomorrow.
+  * Classrooms are being cleaned now.
+  * Classrooms have been cleaned so far
+  * Classrooms had been cleaned before I came back(过去被动)
+  
+2. The whole village learnta large sum of money had been lost.
+3. 被动语态与情态想结合 
+
+  * be + V.过去分词 (be done)... 
+  * passing planes can be heard... 
+  * it could not be used then.
+  * Over a hundred people must have been driven away
+  
+4. passing planes can be heard... 
+5. it could not be used then.
+6. Over a hundred people must have been driven away
+
+ 
+ 
+
 Lesson46：Expensive and uncomfortable既昂贵又受罪
 ====================================================
+1. a number of wooden boxes(+可数名词复数 “许多”)
+2. an article of clothing(一件衣服，更正式，服装)
+3. accout for the fact
+	How can you account for your mistake?
+
+4. ... the fact that one of the boxes was extremely heavy (同位语,做解释说明)				 
+  
+  * 比较常见的可以接同位语从句的名词:fact, news, idea, belief, decision, hope, explanation..
+  * I heard the news that Mr. Johnson had retired.
+  * The fact that he hadn't won the game surprised us.
+  
+5. It suddenly occurred to one of the workers to ...
+
+  * 事情+ occur to sb. "某人想起某事" ,事情为主语
+  * It occurs to sb to do sth.某人想起去做某事 
+  * It occurred to me to ask Ted to do the job.
+  * It occurs to sb that..某人想起.
+  * It occurred to me that I could ask Ted to do the job.
+	
+6. A man was lying in the box...
+
+  lie lay lain lying 
+  
+7. be astonished at sth 比suprise程度高
+8. He had had a long and uncomfortable trip,for he had been confined to the  wooden box for over eighteen hours.
+	
+  * had done(have a long)
+  * confine sb to 将某人限制在
+
+9. The man was ordered to pay....
+  
+  * order sb to do sth命令/指示/叮佩某人做某事
+  * The doctor ordered Fred to stay in bed.
+	
+
+
+
+
+
 Lesson47：A thirsty ghost嗜酒的鬼魂
 ====================================
+1. A public house which was recently bought by Mr. lan ...is up for sale.
+
+  * a public house 
+  * be up for sale
+  * which was recently bought by..定语从句被动语态(28 10 34 21 45)
+  
+2. Mr.... is going to sell it because it is haunted.
+	一般将来时被动语态
+
+3. He told me that he could not go to sleep one night 				   
+	间接引语(宾语从句)
+
+4.... he found that the doors had been blocked by chairs and the furniture had been moved.
+	宾语从句 过去完成时的被动语态
+	
+
+
+
+
 Lesson48：Did you want to tell me something?你想对我说什么吗？
 ===============================================================
+1. ... when it is impossible for you to answer.
+
+  * It is + adj. + for sb. to do sth.
+  * It is difficult for him to lend you the money.
+  * It is hard for Lily to do the job.
+  * It is possible for David to help you.
+ 
+2. My dentist had just pulled out one of my teeth..
+	pull out  拔出
+	
+3.... but my mouth was full of cotton wool.
+  
+  * be full of  充满了 ..;装满了....
+  * Life is full of colors.
+
+4. In answer to these questions ..
+	in answer to  作为对...回答
+
+5. Meanwhile, my tongue was busy ...
+ 
+  * meanwhile = in the meantime  与此同时
+  * be busy doing  忙于做某事
+  * search out  查出,搜寻,找到
+  * search out a mistake in the report
+
+6. ... the hole where the tooth had been.
+
+  * The tooth had been in the hole.
+  * This is the town where he grew up.
+  * This is the town that we visited last week.
+
+7. When the dentist at last removed...
+	
+  * remove v. 移走,脱掉
+  * Andy removed his hat when he came in.
+  * remove + n. + from  从 把. 拿走
+  * remove the sofa from the living room
