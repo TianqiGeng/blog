@@ -11,22 +11,9 @@ Welcome to blog's documentation!
 blog主要分三部分
 -----------------
    1. 本文档编写语法
-   2. Openshift学习笔记 
-   3. Angular学习笔记
-   4. 新概念2的笔记
-
-
-
-
-.. toctree::
-   :maxdepth: 10
-   :caption: 语法:
-   
-   pages/sphinx
-   pages/markdown
-   
-
-
+   2. 新概念2的笔记
+   3. Openshift学习笔记(后续添加)
+   4. Angular学习笔记(后续添加)
 
 .. toctree::
    :maxdepth: 10
@@ -42,7 +29,12 @@ blog主要分三部分
    pages/new2/unit-4-1
    pages/new2/unit-4-2
    
-
+.. toctree::
+   :maxdepth: 10
+   :caption: 语法:
+   
+   pages/sphinx
+   pages/markdown
 
 .. Indices and tables
 .. ==================
